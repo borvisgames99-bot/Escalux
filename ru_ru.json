@@ -1,0 +1,8 @@
+{
+  "block.escalux.escalator_up": "Эскалатор вверх",
+  "block.escalux.escalator_down": "Эскалатор вниз",
+  "item.escalux.maintenance_key": "Ключ механика Escalux",
+  "message.escalux.started": "Эскалатор включён",
+  "message.escalux.stopped": "Эскалатор выключен",
+  "key.categories.escalux": "Escalux"
+}

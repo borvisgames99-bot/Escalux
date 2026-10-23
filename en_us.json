@@ -1,0 +1,7 @@
+{
+  "block.escalux.escalator_up": "Escalator (Up)",
+  "block.escalux.escalator_down": "Escalator (Down)",
+  "item.escalux.maintenance_key": "Escalux Maintenance Key",
+  "message.escalux.started": "Escalator enabled",
+  "message.escalux.stopped": "Escalator disabled"
+}

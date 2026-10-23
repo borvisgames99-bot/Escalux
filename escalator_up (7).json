@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["IRI","SRS","III"],"key":{"I":{"item":"minecraft:iron_ingot"},"R":{"item":"minecraft:redstone"},"S":{"item":"minecraft:stone_slab"}},"result":{"item":"escalux:escalator_up","count":2}}
